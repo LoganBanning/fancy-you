@@ -1,7 +1,7 @@
 import './Landingpage.css';
 
 const alertMessage = () => {
-  alert('Omg so muuuuuucccchhhh, call me girlllllllllll');
+  alert('Omg so muuuuuucccchhhh, like call me girlllllllllll');
 }
 
 const LandingPage = () => {
