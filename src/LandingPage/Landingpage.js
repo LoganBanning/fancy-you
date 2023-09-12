@@ -2,7 +2,7 @@ import React from 'react';
 import './Landingpage.css';
 
 const alertMessage = () => {
-  alert('Omg so muuuuuucccchhhh');
+  alert('Omg so muuuuuucccchhhh, call me girlllllllllll');
 }
 
 const LandingPage = () => {
