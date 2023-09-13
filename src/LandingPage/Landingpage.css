@@ -45,15 +45,17 @@
 
 @media screen and (max-width: 900px){
   .header {
-    font-size: 25px;
+    font-size: 30px;
+    padding: 0 20px 0 20px;
   }
 
   .text-landing-page {
-    font-size: 20px;
+    font-size: 25px;
+    padding: 0 20px 0 20px;
   }
 
   .hot-button {
-    font-size: 20px;
+    font-size: 25px;
     width: 150px;
   }
 }
