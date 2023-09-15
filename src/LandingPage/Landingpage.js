@@ -1,7 +1,7 @@
 import './Landingpage.css';
 
 const alertMessage = () => {
-  alert("You're the prettiest girl I've ever seen in my whole life.  I feel like the luckiest guy in the world to get to spend time with you and I appreciate the it so fucking much.");
+  alert("You're the prettiest girl I've ever seen in my whole life.  I feel like the luckiest guy in the world to get to spend time with you and I appreciate you so fucking much.");
 }
 
 const LandingPage = () => {
