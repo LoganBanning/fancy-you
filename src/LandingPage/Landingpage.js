@@ -1,7 +1,7 @@
 import './Landingpage.css';
 
 const alertMessage = () => {
-  alert('Omg so muuuuuucccchhhh, like call me girlllllllllll, literally any any time');
+  alert("You're the prettiest girl I've ever seen in my whole life.  I feel like the luckiest guy in the world to get to spend time with you and I appreciate the it so fucking much.");
 }
 
 const LandingPage = () => {
@@ -9,7 +9,7 @@ const LandingPage = () => {
     <div className='page-container'>
       <header className='header'>Colleen is hot, gorgeous, funny, and cute.</header>
       <div className='text-body'>
-        <p className='text-landing-page'>I fucking fancy you, how much do I fancy you?</p>
+        <p className='text-landing-page'>I bloody fancy you, how much do I fancy you?</p>
       </div>
       <button onClick={alertMessage} className='hot-button'>FIND OUT</button>
     </div>
