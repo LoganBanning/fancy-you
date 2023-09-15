@@ -38,5 +38,6 @@
 @media screen and (max-width: 1100px) {
   .list-items {
     font-size: 20px;
+    margin: 0 10px 0 10px;
   }
 }
