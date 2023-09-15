@@ -1,0 +1,38 @@
+.nav-container {
+  width: 100vw;
+  height: 10vh;
+  background-color: antiquewhite;
+  display: flex;
+  align-items: center;
+}
+
+.home-link {
+  width: 70px;
+  height: 90%;
+
+}
+
+.heart-home {
+  margin-left: 30px;
+  width: 70px;
+  height: 90%;
+  color:  hotpink;
+}
+
+.nav-links {
+  margin-left: 50px;
+  color: #00b4d8;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.heart-home:hover {
+  cursor: pointer;
+  color: #00b4d8;
+}
+
+.nav-links:hover {
+  cursor: pointer;
+  color: hotpink;
+}
