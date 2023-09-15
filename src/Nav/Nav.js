@@ -9,6 +9,7 @@ const Nav = () => {
         <AiOutlineHeart className='heart-home' />
       </Link>
       <Link className='nav-links' to='/things-i-like'>Things I Like</Link>
+      <Link className='nav-links' to='/things-i-wanna'>Things I Wanna</Link>
     </nav>
   );
 }

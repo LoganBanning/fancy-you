@@ -4,6 +4,7 @@ import Nav from './Nav/Nav';
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import ThingsILike from './Things-I-Like/Things-I-Like';
+import ThingsIWanna from './Things-I-Wanna/Things-I-Wanna';
 
 function App() {
     return (
@@ -12,6 +13,7 @@ function App() {
         <Routes>
           <Route path="/" element={ <LandingPage /> } />
           <Route path="/things-i-like" element={ <ThingsILike /> } />
+          <Route path='/things-i-wanna' element={ <ThingsIWanna /> } />
         </Routes>
       </div>
     );

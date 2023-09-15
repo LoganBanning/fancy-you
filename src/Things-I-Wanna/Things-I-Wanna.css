@@ -1,0 +1,43 @@
+.things-i-like-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.things-i-like-title {
+  color: #00b4d8;
+}
+
+.list-container {
+  width: 70vw;
+  background-color: white;
+  height: 70vh;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.list-items-ul {
+  list-style: none;
+}
+
+.heart-list {
+  margin-right: 10px;
+}
+
+.list-items {
+  color: #00b4d8;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+@media screen and (max-width: 1100px) {
+  .list-items {
+    font-size: 20px;
+    margin: 0 10px 0 10px;
+  }
+}
