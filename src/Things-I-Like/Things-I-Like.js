@@ -39,6 +39,10 @@ const ThingsILike = () => {
             <AiOutlineHeart className='heart-list'/>
             You are down to Earth and we seem so similar in so many ways.  
           </li>
+          <li className='list-items'>
+            <AiOutlineHeart className='heart-list'/>
+            P.S. I like like you.  
+          </li>
         </ul>
       </div>
     </div>
