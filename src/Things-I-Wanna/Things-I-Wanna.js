@@ -29,7 +29,7 @@ const ThingsIWanna = () => {
           </li>
           <li className='list-items'>
             <AiOutlineHeart className='heart-list'/>
-            Kiss your face.
+            Kiss your face, hold your hand and touch your butt.
           </li>
           <li className='list-items'>
             <AiOutlineHeart className='heart-list'/>
