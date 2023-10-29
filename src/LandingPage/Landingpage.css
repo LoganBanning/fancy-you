@@ -57,7 +57,7 @@
   touch-action: manipulation;
 }
 
-.button-56:after {
+/* .button-56:after {
   background-color: #111;
   border-radius: 8px;
   content: "";
@@ -70,7 +70,7 @@
   transform: translate(8px, 8px);
   transition: transform .2s ease-out;
   z-index: -1;
-}
+} */
 
 .button-56:hover:after {
   transform: translate(0, 0);
