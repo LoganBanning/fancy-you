@@ -11,7 +11,7 @@ const LandingPage = () => {
       <div className='text-body'>
         <p className='text-landing-page'>I bloody fancy you, how much do I fancy you?</p>
       </div>
-      <button onClick={alertMessage} className='hot-button'>FIND OUT</button>
+      <button onClick={alertMessage} className='button-49'>FIND OUT</button>
     </div>
   );
 };
