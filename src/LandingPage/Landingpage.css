@@ -76,10 +76,10 @@
   transform: translate(0, 0);
 }
 
-.button-56:active {
+/* .button-56:active {
   background-color: #ffdeda;
   outline: 0;
-}
+} */
 
 .button-56:hover {
   outline: 0;
