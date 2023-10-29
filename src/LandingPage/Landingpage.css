@@ -35,7 +35,7 @@
 
 .button-56 {
   align-items: center;
-  background-color: #fee6e3;
+  background-color: #ff0a54;
   border: 2px solid #111;
   border-radius: 8px;
   box-sizing: border-box;
@@ -83,6 +83,7 @@
 
 .button-56:hover {
   outline: 0;
+  background-color: #ffc8dd;
 }
 
 /* CSS */
@@ -217,5 +218,9 @@
     font-size: 25px;
     width: 150px;
   }
+}
+
+.landing-page-name {
+  color: #ff0a54;
 }
 

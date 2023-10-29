@@ -7,11 +7,11 @@ const alertMessage = () => {
 const LandingPage = () => {
   return (
     <div className='page-container'>
-      <header className='header'>Colleen is hot, gorgeous, funny, and cute.</header>
+      <header className='header'><span className='landing-page-name'>Colleen</span> is hot, gorgeous, funny, and cute.</header>
       <div className='text-body'>
         <p className='text-landing-page'>I bloody fancy you, how much do I fancy you?</p>
       </div>
-      <button onClick={alertMessage} className='button-49'>FIND OUT</button>
+      <button onClick={alertMessage} className='button-56'>FIND OUT</button>
     </div>
   );
 };
